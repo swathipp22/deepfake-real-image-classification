@@ -1,1 +1,2 @@
 # deepfake-real-image-classification
+The project implements a deepfake and real image classification system using Python and TensorFlow-Keras. It employs transfer learning with the ResNet50 architecture, training the model on a dataset containing both real and deepfake images. The trained model achieves accurate classification, validated using metrics like accuracy, ROC AUC score, and average  precision  score.  Additionally,  a  user-friendly  GUI  application  is  developed  using  tkinter,  allowing  users  to browse and predict the class of images interactively.
